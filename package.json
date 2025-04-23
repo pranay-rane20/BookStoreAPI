@@ -1,5 +1,5 @@
 {
-  "name": "BOOKSTOREAPI",
+  "name": "BookStoreAPI",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
