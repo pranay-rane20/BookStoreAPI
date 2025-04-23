@@ -52,7 +52,7 @@ npm install
 ### 3. Create `.env` file
 
 ```env
-PORT=5000
+PORT=3000
 MONGO_URI=mongodb://localhost:27017/bookstore
 ```
 
@@ -66,7 +66,7 @@ npm start
 
 ## 🛠️ API Endpoints
 
-Base URL: `http://localhost:5000/api/books`
+Base URL: `http://localhost:3000/api/books`
 
 ### 1. **Create a new book**
 
@@ -131,7 +131,7 @@ Base URL: `http://localhost:5000/api/books`
 ### Example: Create Book
 
 - **Method**: `POST`
-- **URL**: `http://localhost:5000/api/books`
+- **URL**: `http://localhost:3000/api/books`
 - **Body**:
 ```json
 {
